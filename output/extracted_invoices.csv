@@ -1,0 +1,7 @@
+Source File,Vendor Name,Invoice Date,Utility Type,Usage Amount,Usage Unit,Total Amount Due,Billing Period Start,Billing Period End,Service Address,Invoice Number,Account Number,Due Date,Currency,Tax Amount,Meter Number,Detected Language,Extraction Method,Warnings
+electricity_bill_english.pdf,PACIFIC POWER & LIGHT,2025-03-15,electricity,847.0,kWh,128.09,2025-02-01,2025-02-28,"742 Evergreen Terrace, Springfield, IL 62704",INV-2025-00847,100294883,2025-04-05,USD,9.49,MTR-55219,en,openai,
+electricity_bill_german.pdf,STADTWERKE MUENCHEN GmbH,2025-03-12,electricity,612.0,kWh,114.96,2025-02-01,2025-02-28,"Marienplatz 8, 80331 Muenchen, Deutschland",DE-2025-6120,DE-33110897,2025-04-02,EUR,18.36,ZAE-71903,de,openai,
+electricity_bill_minimal.pdf,CITY ELECTRIC CO,2025-01-20,electricity,520.0,kWh,,,,"100 Main St, Austin, TX",,,,,,,en,openai,
+gas_bill_partial.pdf,METRO GAS SERVICES,2025-04-02,gas,28.0,therms,61.4,,,"55 Oak Avenue, Denver, CO 80202",8842,,,USD,,,en,openai,
+gas_bill_spanish.pdf,GAS NATURAL DEL NORTE S.A.,2025-03-10,gas,34.5,therms,55.86,2025-02-01,2025-02-28,"Calle Mayor 45, Madrid, 28013, Espana",FAC-2025-3391,ES-88452019,2025-03-31,EUR,9.66,CNT-40921,es,openai,
+water_bill_french.pdf,EAU DE PARIS,2025-03-05,water,12.8,m3,39.9,2025-02-01,2025-02-28,"12 Rue de Rivoli, 75004 Paris, France",FR-2025-1187,FR-70045512,2025-03-25,EUR,2.15,CPT-20488,fr,openai,
